@@ -1,7 +1,7 @@
 # Computer-Graphics
 Working on javaScript.
 
-All the files in this repository contains the basic 2D program of graphics. 
+All the files in this repository contains the basic **2D program** of graphics. 
 You can simply open and run these with Visual Studio code.
 Use these Steps:
 1) Download the Repository and Open the folder in VS code.
