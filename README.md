@@ -1,9 +1,10 @@
 # Computer-Graphics
-working on javaScript
+Working on javaScript.
+
 All the files in this repository contains the basic program of computer graphics. 
 You can simply open and run these with Visual Studio code.
 Use these Steps:
-1) Download the Repository ad Open the folder in VS code.
+1) Download the Repository and Open the folder in VS code.
 2) Right click on html file (main.html)   
 2.1) In main.html write the name of the js file you want to open.
                   <script src = "file_name"><script>
